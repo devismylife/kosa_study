@@ -1,0 +1,19 @@
+{
+  "name": "kosa_study",
+  "version": "1.0.0",
+  "description": "github practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devismylife/kosa_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devismylife/kosa_study/issues"
+  },
+  "homepage": "https://github.com/devismylife/kosa_study#readme"
+}
